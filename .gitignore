@@ -1,0 +1,10 @@
+# Ignore temporary Excel and system files
+*.tmp
+*.bak
+~$*
+.DS_Store
+
+# Ignore database logs and other junk
+*.log
+*.sqlite3
+.env
