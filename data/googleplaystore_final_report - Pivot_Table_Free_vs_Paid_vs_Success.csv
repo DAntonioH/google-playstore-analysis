@@ -1,0 +1,6 @@
+COUNTA of App,Success,,,,,Notes
+Type,Mixed,Successful,Unsuccessful,Grand Total,Net Score,
+Free,795,3976,4115,8886,-139,
+NaN,,,1,1,-1,
+Paid,64,109,579,752,-470,
+Grand Total,859,4085,4695,9639,-610,
